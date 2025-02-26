@@ -1,2 +1,44 @@
 # springboot_hanfu_competition_travel
-仓库包含三个基于SpringBoot开发的项目：高校汉服租赁网站专注于汉服租赁与管理，提供汉服商品管理、租赁预约、在线支付、租赁订单管理、租赁押金管理、用户评价、租赁历史查询等功能，优化高校汉服租赁流程，提升汉服文化推广 👘📖；高校竞赛管理系统是一款智能化竞赛管理平台，支持竞赛发布、竞赛报名、竞赛审核、赛事进度跟踪、竞赛评分、成绩公示、竞赛数据统计等功能，助力高校优化竞赛组织管理，提升竞赛管理系统的智能化 🏆📊；旅游服务平台是一款在线旅游管理系统，提供旅游线路推荐、酒店预订、门票购买、景点介绍、行程规划、用户评价、旅游攻略分享等核心功能，打造便捷的一站式旅游服务平台，提升用户旅游体验 🌍✈️。
+
+📦 SpringBoot多功能项目仓库 🎯
+
+本仓库汇集了三个基于 **Spring Boot** 开发的高实用性项目，涵盖 **汉服租赁、竞赛管理、旅游服务** 等多个领域，适用于学习、开发实践和功能拓展！🚀
+
+👘 **高校汉服租赁网站** —— 提供**汉服商品管理、租赁预约、在线支付、租赁订单管理、押金管理、用户评价**等功能，优化**高校汉服租赁流程** 📖🎎
+
+🏆 **高校竞赛管理系统** —— 支持**竞赛发布、报名审核、赛事进度跟踪、竞赛评分、成绩公示、竞赛数据统计**等功能，提升**高校竞赛管理智能化** 📊✅
+
+🌍 **旅游服务平台** —— 实现**旅游线路推荐、酒店预订、门票购买、行程规划、用户评价、旅游攻略分享**等功能，打造便捷的**在线旅游服务平台** ✈️📍
+
+**项目部署说明**✨：
+
+推荐使用：**谷歌浏览器**
+
+**后台地址**😎
+
+http://localhost:8080/springboot/admin/dist/index.html
+
+**前台地址**😎
+
+http://localhost:8080/springboot547vl/front/index.html
+
+在**src\main\resources\application.yml中**编辑数据库配置🎉										
+url:jdbc:mysql://127.0.0.1:3306/springbootuseUnicode=true&characterEncoding=utf8&useJDBCCompliantTimezoneShift=true&useLegacyDatetimeCode=false&serverTimezone=UTC
+username: root
+password: 123456
+
+**文档预览**👀
+
+![](./images/预览.png)
+
+**其他项目合集**✨
+
+![](./images/1.png)
+
+![](./images/2.png)
+
+![](images/3.png)
+
+![](images/4.png)
+
+![](images/5.png)
